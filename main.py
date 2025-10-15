@@ -23,7 +23,7 @@ retriever = csm()
 
 while True:
     print("\n\n-------------------------------")
-    question = input("Ask your question (q to quit): ")
+    question = input("Pregunta (q para salir): ")
     print("\n\n")
     if question == "q":
         break
